@@ -86,6 +86,7 @@ if(!is_null($events)){
                 case "infographic":
                 case "สื่อเผยแพร่":
                 case "อินโฟกราฟฟิค":
+                case "อินโฟกราฟฟิก":
                 
 
 
